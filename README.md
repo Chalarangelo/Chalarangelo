@@ -5,7 +5,7 @@ I'm Angelos Chalaris, a web developer from Athens, Greece. I love programming bo
 ### My work 🔭
 
 - I work as a frontend engineer for [Skroutz](https://github.com/skroutz) - [website](https://www.skroutz.gr/)
-- I am the creator of [30 seconds of code](https://github.com/30-seconds) - [website](https://30secondsofcode.org)
+- I am the creator of [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - [website](https://30secondsofcode.org)
 - I code a lot, mainly in JavaScript - [view repositories](https://github.com/Chalarangelo?tab=repositories)
 
 ### Contact 📫
