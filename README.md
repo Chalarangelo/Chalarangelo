@@ -1,6 +1,8 @@
-### Hi there 👋
+Hi there! 👋 
 
-I'm Angelos Chalaris, a web developer from Athens, Greece. I love programming both as a job and as a hobby and I spend a lot of time writing code and testing out new ideas. I work mainly with web technologies such as JavaScript, HTML, CSS, Node.js, React and SCSS, and I occasionally dabble in Python, Astro and Svelte. 
+I'm **Angelos Chalaris**, a **Full Stack Software Engineer** from **Athens, Greece**.
+
+I've been coding since 2011, making it my career path and longest-standing hobby to date. I love programming, system design, and problem-solving, and I'm always looking for new challenges to tackle. My main focus is on web development, but I've also worked with various other technologies in the past.
 
 ### My work 🔭
 
