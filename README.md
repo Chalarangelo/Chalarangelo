@@ -1,4 +1,4 @@
-Hi there! 👋 
+### Hi there! 👋 
 
 I'm **Angelos Chalaris**, a **Full Stack Software Engineer** from **Athens, Greece**.
 
